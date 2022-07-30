@@ -8,3 +8,6 @@
 - [ ] Competitions
 - [ ] Data Science ML
 - [ ] Snowflake practitioner
+- [ ] Class, method, function, investigate in python
+- [ ] Tests in machine learning 
+- 
