@@ -6,3 +6,5 @@
 - [ ] Best practices in modularised code
 - [ ] Github shortcuts 
 - [ ] Competitions
+- [ ] Data Science ML
+- [ ] Snowflake practitioner
