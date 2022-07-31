@@ -13,8 +13,11 @@
 - [ ] How to use documentation to your advantage and understand it better 
 
 ### Medium 
-[ ] SQL vs Pyspark 
-[ ] Snowpark
-[ ] Data Engineering
+- [ ] SQL vs Pyspark 
+- [ ] Snowpark
+- [ ] Data Engineering
 
 ### Important Concepts
+
+### Next 
+- [ ] 
