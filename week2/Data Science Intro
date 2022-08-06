@@ -1,0 +1,17 @@
+# ML
+
+Understanding the relationship between the input and the output variables.
+**Stohastic Relationship** - a mathematical object that is usually defined as a family of random variables, affected by noise
+
+**Forecasting**
+    - input can be observed, but output can't (at least not at the time.
+    - detect fraudulent transactions
+**Inference**
+    - want to understand how the output depends on the input
+    - e.g. want to predict the type of marketing camanin depending on the medium that we are using
+
+Cardinal vs ordinal
+
+Parametric and nonparametric
+parametric - make an assumption about the function we use
+non-parametric - does not make any assmption about the functions
