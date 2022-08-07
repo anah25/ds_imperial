@@ -1,6 +1,6 @@
  ### Elements to look after
 
-- [ ]  Virtual environments 
+- [x]  Virtual environments 
 - [ ]  Poetry Environment
 - [ ]  Best practices in DS folder structure 
 - [ ] Best practices in modularised code
@@ -11,6 +11,7 @@
 - [ ] Class, method, function, investigate in python
 - [ ] Tests in machine learning 
 - [ ] How to use documentation to your advantage and understand it better 
+- [ ] Dunder Methods
 
 ### Medium 
 - [ ] SQL vs Pyspark 
