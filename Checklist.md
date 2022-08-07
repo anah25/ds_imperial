@@ -19,5 +19,6 @@
 
 ### Important Concepts
 
-### Next 
-- [ ] 
+### Books 
+- Python include Fluent Python, 2nd Ed. by Luciano Ramalho (O’Reilly)
+- Beyond the Basic Stuff with Python by Al Sweigart (No Starch).
