@@ -11,7 +11,10 @@
 - [ ] Class, method, function, investigate in python
 - [ ] Tests in machine learning 
 - [ ] How to use documentation to your advantage and understand it better 
-- [ ] Dunder Methods
+- [x] Dunder Methods
+- [ ] Github Pages
+- [ ] Missing Data
+- [ ] Propensity modelling
 
 ### Medium 
 - [ ] SQL vs Pyspark 
